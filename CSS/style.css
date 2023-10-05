@@ -7,8 +7,10 @@ body{
   margin-bottom: 10%;
   margin-right: 10%;
   margin-left: 10%;
+  background-color: #3253d764;
 }
 table,th,td{
+  background-color: white;
   border: 1px solid #999999;
   border-collapse: collapse;
   padding: 10px;
@@ -21,7 +23,7 @@ td{
   color: #f94449;
 }
 th{
-  background-color: #03045e;
+  background-color: #010101;
   color: white;
   text-align: left;
 }
@@ -30,8 +32,8 @@ th{
 .ExTabla{
   font-size: 12px;
   margin-right: 8%;
-  background-color: #03045e;
-  color: white;
+  background-color: #a8a8af;
+  /* color: white; */
   padding: 24px;
   border-radius: 10px;
 }
